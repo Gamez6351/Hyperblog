@@ -11,6 +11,8 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Las personalidades múltiples de Freddy
 * Los buenos memes que comparte esta linda comunidad :3
 * Creado por el increible Yoshi Gamez
+* Incluye ejemplos en SO como Windows, Linux y Mac
+* Disponibles para todas las edades
 
 
 Y como un amable recordatorio: **Este README.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso en Platzi**](https://platzi.com/cursos/git-github/ "Curso de Git y GitHub").
